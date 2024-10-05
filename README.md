@@ -10,11 +10,9 @@
 
 This is a full-stack Facebook clone built with React and Spring Boot microservices.
 
-[Watch Demo on YouTube](https://www.youtube.com/watch?v=SppYteB37PU&t=2s&ab_channel=ritikchauhan)
-
 ---
 
-## Features 😎
+## Features 
 
 - **Offline-first PWA**: Responsive web app built with React.
 - **User Registration**: Users can create accounts with unique usernames and passwords.
@@ -80,7 +78,7 @@ This is a full-stack Facebook clone built with React and Spring Boot microservic
 
 ## Architecture 🏗️
 
-![Architecture](./.github/assets/FaceBook_Architecture.png)
+![Architecture](./assets/FaceBook_Architecture.png)
 
 The application is divided into 5 key microservices:
 
@@ -119,32 +117,28 @@ The application is divided into 5 key microservices:
 
 | Registration Page                                   | SignIn Page                                      |
 | -------------------------------------------------- | ------------------------------------------------ |
-| ![Registration Page](/.github/assets/Register_Page.png) | ![SignIn Page](/.github/assets/SignIn_Page.png)  |
+| ![Registration Page](./assets/Register_Page.png) | ![SignIn Page](./assets/SignIn_Page.png)  |
 
 | Desktop UI                                         | Desktop UI (Dark Mode)                           |
 | -------------------------------------------------- | ------------------------------------------------ |
-| ![Desktop UI](/.github/assets/Desktop_UI.png)      | ![Desktop UI Dark](/.github/assets/Desktop_UI_Dark.png) |
+| ![Desktop UI](./assets/Desktop_UI.png)      | ![Desktop UI Dark](./assets/Desktop_UI_Dark.png) |
 
 | Notifications                                      | Search                                           |
 | -------------------------------------------------- | ------------------------------------------------ |
-| ![Notifications](/.github/assets/Notifications.png) | ![Search](/.github/assets/Search.png)            |
+| ![Notifications](./assets/Notifications.png) | ![Search](./assets/Search.png)            |
 
 | Mobile UI                                          | Mobile UI (Dark Mode)                            |
 | -------------------------------------------------- | ------------------------------------------------ |
-| ![Mobile UI](/.github/assets/Mobile_UI.png)        | ![Mobile UI Dark](/.github/assets/Mobile_UI_Dark.png) |
+| ![Mobile UI](./assets/Mobile_UI.png)        | ![Mobile UI Dark](./assets/Mobile_UI_Dark.png) |
 
 | Edit Profile Page                                  | Tablet UI                                        |
 | -------------------------------------------------- | ------------------------------------------------ |
-| ![Edit Profile Page](/.github/assets/Edit_Profile_Page.png) | ![Tablet UI](/.github/assets/Tablet_UI.png)      |
+| ![Edit Profile Page](./assets/Edit_Profile_Page.png) | ![Tablet UI](./assets/Tablet_UI.png)      |
 
 ---
+### Contributions
 
-## License
-
-This project is licensed under the MIT License.
+ - [Maatangy](https://github.com/Maatangy/)
+ - [Bruhathi](https://github.com/bruhathisp/)
 
 ---
-
-
-
-
